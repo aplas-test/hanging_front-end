@@ -9,24 +9,23 @@
       "description": "Decentralized uniform function",
       "categoryId": "administration",
       "applicationSize": "medium",
-      "status": "standard",
       "licensing_cost": "220",
       "status_color": "#00FF00",
       "department": "Product Management",
       "hostedtype": "OnPremise",
       "deployment_date": "6/7/07",
-      "investment_number": "64",
+      "investment_number": 64,
       "type": "OffShelf",
       "sme_email": "Jessi.Shankland@memento.net.au",
       "investment_24m": "450",
       "sme_name": "Jessi Shankland",
       "support_cost": "166",
       "end_of_life": "21/3/18",
-      "months_to_renew_support": "34",
+      "months_to_renew_support": 34,
       "end_of_maintenance": "28/2/17",
       "integrations": [
         {
-          "assetId": "int-331",
+          "id": "int-331",
           "name": "INT-331",
           "shortName": null,
           "version": "0.3.7",
@@ -34,7 +33,6 @@
           "payload": "Results",
           "targetApplicationId": "wikiality",
           "categoryId": "email",
-          "status": "standard",
           "sme_name": "Jessa Boncore",
           "status_color": "#00FF00",
           "department": "App Control",
@@ -47,7 +45,7 @@
           "golive_date": "2/8/11"
         },
         {
-          "assetId": "int-467",
+          "id": "int-467",
           "name": "INT-467",
           "shortName": null,
           "version": "3.37",
@@ -55,7 +53,6 @@
           "payload": "ASN",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Gualterio Trevaskiss",
           "status_color": "#FFFF05",
           "department": "Integration",
@@ -68,7 +65,7 @@
           "golive_date": "4/3/14"
         },
         {
-          "assetId": "int-094",
+          "id": "int-094",
           "name": "INT-094",
           "shortName": null,
           "version": "5.6",
@@ -76,7 +73,6 @@
           "payload": "Supplier / Vendor",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Tonya Oldcroft",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -89,7 +85,7 @@
           "golive_date": "20/4/14"
         },
         {
-          "assetId": "int-231",
+          "id": "int-231",
           "name": "INT-231",
           "shortName": null,
           "version": "8",
@@ -97,7 +93,6 @@
           "payload": "PO ALL TRF Backdated, PO ALL TRF On Hand",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Lee Brelsford",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -110,7 +105,7 @@
           "golive_date": "5/7/17"
         },
         {
-          "assetId": "int-002",
+          "id": "int-002",
           "name": "INT-002",
           "shortName": null,
           "version": "0.2.2",
@@ -118,7 +113,6 @@
           "payload": "Allocation Distribution",
           "targetApplicationId": "social_innovation",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Isacco Tucker",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -131,7 +125,7 @@
           "golive_date": "14/6/15"
         },
         {
-          "assetId": "int-489",
+          "id": "int-489",
           "name": "INT-489",
           "shortName": null,
           "version": "2",
@@ -139,7 +133,6 @@
           "payload": "Replacement SKU",
           "targetApplicationId": "social_innovation",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Guenna Kix",
           "status_color": "#00FF00",
           "department": "Integration",
